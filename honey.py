@@ -3,7 +3,7 @@ import time
 
 HOST = "127.0.0.1"   # Porta local
 PORT = 22            # porta fake SSH
-BANNER = "SSH-2.0-OpenSSH_8.4 Ubuntu-5\r\n"
+BANNER = "SSH-2.0-OpenSSH_8.4 Ubuntu-24.0\r\n"
 LOGFILE = "honeyssh.log"
 
 def log(msg):
